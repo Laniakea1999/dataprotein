@@ -1,0 +1,504 @@
+>sp|Q66GS9|CP135_HUMAN/728-925 [subseq from] Centrosomal protein of 135 kDa OS=Homo sapiens OX=9606 GN=CEP135 PE=1 SV=2
+TIGVIDKEKDFLQETVDEKT-EKIANLQENLANK---E-KAV-------AQMK---IMI-
+----S-------ECE----SSVNQLKETLVN-RDREINSLR---RQLD---AA----H--
+--K-E----LD---EVGRS---REIAF----K--ENR--RLQDDLA-TMA---RENQE-I
+SLELEA-------AVQE-----------KEEM---KS-------R-VHKYITEVS-RWES
+LM-----------------AAKEKENQDLLDRFQMLHNRA----EDWEVKAHQAEGESSS
+VRLELLSIDTERRHLRERV-
+>sp|Q6P5D4|CP135_MOUSE/728-926 [subseq from] Centrosomal protein of 135 kDa OS=Mus musculus OX=10090 GN=Cep135 PE=1 SV=1
+TIGVMDKEKDFLQETVDEKT-EKIANLQESLLSK---E-KVI-------AQLK---VTV-
+----A-------EYE----TSLNQLQETLTT-RDREINSLR---RQLD---AS----H--
+--K-E----LD---DVGKS---REISF----K--ENR--RLQDDLA-TMA---RENQE-I
+SLELEA-------AVQE-----------KEEM---KS-------R-VHKYITEVS-RWES
+LM-----------------AAKEKENKDLLDRFQMLHSRA----EDWEVKAQQAEGENSS
+VRLELLSIDTERRHLRERVD
+>sp|Q5RG45|CP135_DANRE/733-930 [subseq from] Centrosomal protein of 135 kDa OS=Danio rerio OX=7955 GN=cep135 PE=3 SV=2
+TIASLDREKDTLQDAVDQKT-ESVVLLQQEVHRK---E-ETL-------LEVR---LTV-
+----T-------DLE----NSLNQLQAVLSS-REREIASLR---RQLD---QS----Q--
+--E-E----LF---SVSRD---REVAL----R--ENR--RLQDDLA-TMT---RENQA-V
+HAEMQE-------ALNE-----------RDEL---KL-------R-VHSYISEVA-RIES
+LM-----------------AAKEQENRDMLERFRSIHTES----EDKELKLQQSEGLNNS
+IRLELLSSDTERRHLRERV-
+>sp|Q6NY15|TSG10_MOUSE/263-460 [subseq from] Testis-specific gene 10 protein OS=Mus musculus OX=10090 GN=Tsga10 PE=1 SV=1
+-LNDLAKEKECLQACLDKKS-ENIASLGESLAMK---E-KTI-------SGMK---NII-
+----A-------EME----QASRQSTEALIM-CEQDISRMR---RQLD---ET----N--
+--D-E----LG---QIARE---RDILA----H--END--NLQEQFA-KVK---QENQA-L
+SKKLND-------THNE-----------LSDI---KQ-------K-VQDTNLEVN-KLKN
+IL-----------------KSEESENRQIMEQLRKANEDA----ENWENKARQTEAENNT
+LKLELITAEAEGNRLKEKVD
+>sp|Q4R6W3|TSG10_MACFA/166-363 [subseq from] Testis-specific gene 10 protein OS=Macaca fascicularis OX=9541 GN=TSGA10 PE=2 SV=1
+-LNDLAKEKECLQACLDKKS-ENIASLGESLAMK---E-KTI-------SGMK---NII-
+----A-------EME----QASRQSTEALIM-CEQDISRMR---RQLD---ET----N--
+--D-E----LA---QIARE---RDILA----H--DND--NLQEQFA-KAK---QENQA-L
+SKKLND-------THNE-----------LNDI---KQ-------K-VQDTNLEVN-KLKN
+IL-----------------KSEESENRQMMEQLRKANEDA----ENWENKARQSEADNNT
+LKLELITAEAEGNRLKEKVD
+>sp|Q9BZW7|TSG10_HUMAN/263-460 [subseq from] Testis-specific gene 10 protein OS=Homo sapiens OX=9606 GN=TSGA10 PE=1 SV=1
+-LNDLAKEKECLQACLDKKS-ENIASLGESLAMK---E-KTI-------SGMK---NII-
+----A-------EME----QASRQCTEALIV-CEQDVSRMR---RQLD---ET----N--
+--D-E----LA---QIARE---RDILA----H--DND--NLQEQFA-KAK---QENQA-L
+SKKLND-------THNE-----------LNDI---KQ-------K-VQDTNLEVN-KLKN
+IL-----------------KSEESENRQMMEQLRKANEDA----ENWENKARQSEADNNT
+LKLELITAEAEGNRLKEKVD
+>sp|Q9Z220|TSG10_RAT/261-475 [subseq from] Testis-specific gene 10 protein OS=Rattus norvegicus OX=10116 GN=Tsga10 PE=1 SV=2
+-LNDLAKEKECLQTCLDKKS-ENIASLGESLAMK---E-KTI-------SGMK---NII-
+----A-------EME----QASRQSTEALIM-CEQDISRMR---RQLD---ET----N--
+--D-E----LG---QIARE---RDILA----H--END--NLQEQFA-KVK---QENQA-L
+SKKLND-------THNE-----------LSDI---KQ-------K-VQDTNLEVN-KLKN
+ILKSEESTNLEVNKLKNILKSEESENRQIMEQLRKANEDA----ENWENKARQLEAENNT
+LKLELITAEAEGNRLKEKVD
+>sp|F4JZY1|CIP1_ARATH/688-891 [subseq from] COP1-interactive protein 1 OS=Arabidopsis thaliana OX=3702 GN=CIP1 PE=1 SV=1
+--KSADQQVADMKQSLDNAE-EEKKMLSQRILDI---S-NEI-------QEAQ---KTI-
+----Q-------EHM----SESEQLKESHGV-KERELTGLR---DIHE---TH----Q--
+--R-ESSTRLS---ELETQ---LKLLE----Q--RVV--DLSASLN-AAE---EEKKS-L
+SSMILE-------ITDE-----------LKQA---QS-------K-VQELVTELA-ESKD
+TL-----------------TQKENELSSFVEVHEAHKRDSSSQVKELEARVESAEEQVKE
+LNQNLNSSEEEKKILSQQI-
+>sp|Q93635|CC149_CAEEL/148-246 [subseq from] Coiled-coil domain-containing protein 149 OS=Caenorhabditis elegans OX=6239 GN=ccdc-149 PE=2 SV=1
+-------------------------------VSK---L-EAH-------EKLQ---AKC-
+----K-------GLE----SDLRSMLGIKEE-LLMERDEMQ---RKVA---RL----S--
+--N-E----LS---YLLN-------------G--DPR--RVAEDLD-SLV---AENRF-L
+KAKLNT-------AEEE-----------SESI---KM-------T-LAKYKQMA------
+------------------------------------------------------------
+--------------------
+>sp|Q585H6|FAZ1_TRYB2/717-796 [subseq from] Flagellar attachment zone protein 1 OS=Trypanosoma brucei brucei (strain 927/4 GUTat10.1) OX=185431 GN=FAZ1 PE=4 SV=1
+--------QDDLLAELSGVS-EEKEKLEAECERL---E-AEL-------RQME---EKS-
+----R-------LSE----QGLSEMTQRLEE-KQAEIEGLL---ENLE---QL----D--
+--E-Q----LE---ALRAA---EKS-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+>sp|P10716|CLC4F_RAT/248-373 [subseq from] C-type lectin domain family 4 member F OS=Rattus norvegicus OX=10116 GN=Clec4f PE=1 SV=1
+----------FLQHSMDNIS-AEIQAMRDGMQRA---G-EEM-------TSLK---KDL-
+----E-------TLT----AQIQNANGHLEQ-TDTQIQGLK---AQLK---ST----SS-
+LNS-Q----IE---VVNGK---LKDSS----R--ELQ--TLRRDLS-DVSALKSNVQM-L
+QSNLQK-------AKAE-----------VQSL---KT-------G-LEA-----------
+------------------------------------------------------------
+--------------------
+>sp|C9ZN16|FAZ1_TRYB9/717-796 [subseq from] Flagellar attachment zone protein 1 OS=Trypanosoma brucei gambiense (strain MHOM/CI/86/DAL972) OX=679716 GN=TbgDal_IV3690 PE=3 SV=1
+--------QDDLLAELSGVS-EEKEKLEAECERL---E-AEL-------RQME---EKS-
+----R-------LSE----QGLSEMTQRLEE-KQAEIEGLL---ENLE---QL----D--
+--E-Q----LE---ALRAA---EKS-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+>sp|Q10411|SPO15_SCHPO/668-835 [subseq from] Sporulation-specific protein 15 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=spo15 PE=1 SV=1
+----------------------------LKLEES---N-KSL-------IKKQ---EDV-
+----D-------SLE----KNIQTLKEDLRK-SEEALRFSK---LEAK---NL----R--
+--E-V----ID---NLKGK---HETLE----A--QRN--DLHSSLS-DAK---NTNAI-L
+SSELTK-------SSED-----------VKRL---TA-------N-VETLTQDSK-AMKQ
+SF-----------------TSLVNSYQSISNLYHELRDDH----VNMQSQNNTLLESESK
+LKTDCENLTQQNMTLI----
+>sp|P30141|MRP4_STRPY/241-314 [subseq from] Fibrinogen- and Ig-binding protein OS=Streptococcus pyogenes OX=1314 GN=mrp4 PE=3 SV=1
+-----------LQAKLDAAN-AEKEKLQSQAATL---E-KQL-------EATK---KEL-
+----A-------DLQ----AKLAATNQEKEK-LEAEAKALK---EQLA---KQ----A--
+--E-E----LA---KLKAD-----------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+>sp|P39922|MYS3_HYDVU/419-520 [subseq from] Myosin heavy chain, clone 203 (Fragment) OS=Hydra vulgaris OX=6087 PE=2 SV=1
+---KLEKEKSALNNELNETK-NSLDQIKKQKTNS---D-KNS-------RMLE---EQI-
+----N-------ELN----SKLAQVDELHSQ-SESKNSKVN---SELL---AL----N--
+--S-Q----LS---ESEHN---LGIAT----K--NIK--TLESQLA-ESK---N------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+>sp|Q9M7J4|MFP1_TOBAC/403-549 [subseq from] MAR-binding filament-like protein 1-1 OS=Nicotiana tabacum OX=4097 GN=MFP1-1 PE=2 SV=1
+-IADLTQEKENLRRMLDAEL-ENISKLKLEVQVT---Q-ETL-------EKSR---SDA-
+----S-------DIA----QQLQQSRHLCSK-LEAEVSKLQ---MELE---ET----RTS
+LRR-N----ID---ETKRG---AELLA----A--ELT--TTRELLK-KTN---EEMHT-M
+SHELAA-------VTEN-----------CDNL---QT-------E-LVDVYKKAE-RAAD
+EL-----------------KQ---------------------------------------
+--------------------
+>sp|C5DLA5|SHE3_LACTC/97-242 [subseq from] SWI5-dependent HO expression protein 3 OS=Lachancea thermotolerans (strain ATCC 56472 / CBS 6340 / NRRL Y-8284) OX=559295 GN=SHE3 PE=3 SV=1
+SISTLKHENDNLGLMLSRKE-RRVRDLEQQLSQL---K-HSY-------EEAA---MDN-
+----K-------TMR----HQLQTSGQREGT-LENQLQQLQ---VQYD---AL-------
+---------VD---GQKRY---REKYD----L--EVE--ELKKSLQ-DFK---RDNEMYL
+TKNIQT-------VVSN-----------NTAL---QT-------K-INQYSGKYK-NLES
+LS-----------------QQHMQE-----------------------------------
+--------------------
+>sp|D3ZZL9|GCC2_RAT/548-707 [subseq from] GRIP and coiled-coil domain-containing protein 2 OS=Rattus norvegicus OX=10116 GN=Gcc2 PE=1 SV=1
+-----------------------------------------V-------SELE---STM-
+----K-------NLK----ADNSMYLASLGQ-KDTLLQELE---AKIS---SL----A--
+--E-E----KD---DFISK---IKTSR----E--EID--DLHQK-----W---EREQK-L
+SVELRE-------AAEQ-----------AAQH---NS-------E-LRQRVSELTGKLDE
+IL-----------------REKSQNDQNIMVQMKTMTEDQ----EALSSKIKSLYEENNR
+LHSEKVQLSRDLEALQSQQD
+>sp|P79955|CTK2_XENLA/130-294 [subseq from] Carboxy-terminal kinesin 2 OS=Xenopus laevis OX=8355 PE=2 SV=1
+-----------MRDTVSNYK-GKMQNLTGENARL---L-NSK-------EKLQ---REV-
+----E-------VLA----SENSKLSQERCT-LESQLREVR---QQVS---TF----E--
+--R-E----VA---RLTEL---CQRQE----K--ELS--SHTNTIE-ELQ---GANAI-L
+TKQLLDKEVKLDCVSGE-----------NTSL---KH-------T-VNEQTDEIA-ALKV
+CL-----------------AEKDTEVHSLDTERRRLHNLV----QELKGN----------
+--------------------
+>sp|P40414|TPM2_YEAST/2-110 [subseq from] Tropomyosin-2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TPM2 PE=1 SV=1
+------------------------EKIKEKLNSL---K-LES-------ESWQ---EKY-
+----E-------ELR----EQLKELEQSNTE-KENEIKSLS---AKNE---QL----D--
+--S-E----VE---KLESQLSDTKQLA----E--DSN--NLRSNNE-NYT---KKNQD-L
+EQQLED-------SEAK-----------LKEA---MD-------K-LK------------
+------------------------------------------------------------
+--------------------
+>sp|P70194|CLC4F_MOUSE/248-374 [subseq from] C-type lectin domain family 4 member F OS=Mus musculus OX=10090 GN=Clec4f PE=1 SV=1
+----------FLQHSMDNIS-AQIQTVRDGMERA---G-EKM-------NSLK---KEL-
+----E-------TLT----AQTQKANGHLEQ-TDAQIQGLK---AELK---ST----SS-
+LNS-R----IE---VVNGQ---MKDAS----R--ELQ--TLRRDLS-DVSALKSNVQM-L
+QSNLQR-------AKTE-----------MQTL---KA-------D-LQAT----------
+------------------------------------------------------------
+--------------------
+sp|A0A125S9M6|CYTAR_HYPDU/19-129 [subseq from] Cytotardin OS=Hypsibius dujardini OX=232323 PE=2 SV=1
+-----------------------------------------R-------VHSK---DEL-
+----Q-------ALN----TRLAKYIDKIRN-LENENVALQ---RQLQ---TA----E--
+--QTT----VT---EIHRV---SKNYD----E--ELA--KLRKQLE-DVL---RDNAR-L
+QMERNS-------TESE-----------NKQL---QQ-------R-VAQLEKQVR-TLEA
+RL-----------------RQAE-------------------------------------
+--------------------
+sp|P93203|MFP1_SOLLC/395-541 [subseq from] MAR-binding filament-like protein 1 OS=Solanum lycopersicum OX=4081 GN=MFP1 PE=1 SV=1
+-IADLTREKENLRRMVDAEL-DNVNKLKQEIEVT---Q-ESL-------ENSR---SEV-
+----S-------DIT----VQLEQLRDLSSK-LEREVSKLQ---MELE---ETRASLQ--
+--R-N----ID---ETKHS---SELLA----A--ELT--TTKELLK-KTN---EEMHT-M
+SDELVA-------VSEN-----------RDSL---QT-------E-LVNVYKKRE-HTRN
+EL-----------------KQ---------------------------------------
+--------------------
+sp|Q755K3|ATG16_ASHGO/39-123 [subseq from] Autophagy protein 16 OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=ATG16 PE=1 SV=1
+------------------------------------------------------------
+-----------------------------DS-RDLVAKSLR---EELH---AH----E--
+--Q-E----IH---KLKDI---VHLRS----K--DAE--KLNDEII-SLN---IENSL-L
+QDKLTA-------LQAE-----------YDKL---IQ-------RWLAKAQSEAD-AMNQ
+GL----------------------------------------------------------
+--------------------
+sp|O02389|TPM_CHLNI/175-280 [subseq from] Tropomyosin OS=Chlamys nipponensis akazara OX=6571 PE=2 SV=1
+--------------DLERAE-TRLEAADAKVHEL---E-EEL-------TVVG---ANI-
+----K-------TLQ----VQNDQASQREDS-YEETIRDLS---KNLK---DA----E--
+--T-R----AT---EAERQ---LTKLQ----K--EVD--RLEDELL-AEK---ERYKA-I
+SDELDQ-------TFAE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q9NTJ3|SMC4_HUMAN/327-495 [subseq from] Structural maintenance of chromosomes protein 4 OS=Homo sapiens OX=9606 GN=SMC4 PE=1 SV=2
+-----------------------IYELQKRIAEM---E-TQK-------EKIH---EDT-
+----K-------EIN----EKSNILSNEMKA-KNKDVKDTE---KKLN---KI----T--
+--K-F----IE---ENKEK---FTQLD----L--EDV--QVREKLK-HAT---SKAKK-L
+EKQLQK-------DKEK-----------VEEF---KSI----PAK-SNNIINETT-TRNN
+AL----------------EKEKEKEEKKLKEVMDSLKQET----QGLQKEKESREKELMG
+FSKSVNEA------------
+sp|Q1D823|AGLZ_MYXXD/658-733 [subseq from] Adventurous-gliding motility protein Z OS=Myxococcus xanthus (strain DK 1622) OX=246197 GN=aglZ PE=1 SV=1
+----------SLQGDVAARD-QRISELSGDLEAT---S-QTL-------AQTQ---QTL-
+----A-------QTE----QQLADTQNTLAS-TEGALAETR---GELD---AT----S--
+--Q-T----LQ---QTQQT---L-------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q75AF5|IMH1_ASHGO/121-230 [subseq from] Golgin IMH1 OS=Ashbya gossypii (strain ATCC 10895 / CBS 109.51 / FGSC 9923 / NRRL Y-1056) OX=284811 GN=IMH1 PE=3 SV=2
+-------------------------------------T-EEI-------KRIT---GEN-
+----N-------GLQ----KQLAEAQESLEQ-RQRDLTSRE---EELA---KS----S--
+--R-E----AT---ELREL---RQQAV----A--EKD--AAVTERD-DAQ---KAAAE-M
+ETRCTE-------AEAH-----------AAEM---KS-------Q-IESMETELK-RTEK
+LL-----------------T----------------------------------------
+--------------------
+sp|Q5KR49|TPM1_BOVIN/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Bos taurus OX=9913 GN=TPM1 PE=2 SV=1
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLS----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q25457|TPM_MYTED/175-280 [subseq from] Tropomyosin OS=Mytilus edulis OX=6550 PE=2 SV=1
+--------------DLERAE-ARLEAAEAKVIDL---E-EQL-------TVVG---ANI-
+----K-------TLQ----VQNDQASQREDS-YEETIRDLT---NRLK---DA----E--
+--N-R----AT---EAERT---VSKLR----K--EVD--RLEDELL-TEK---EKYKA-I
+SDELDA-------TFAE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P22311|PU91_BRACO/61-235 [subseq from] Puff II/9-1 protein OS=Bradysia coprophila OX=38358 GN=II/9-1 PE=2 SV=1
+-ITAIKKDNDFLNKENDALR-AQNCELTAQLAKE---K-KAR-------EAAE---NAL-
+----C-------ECQ----KNSELLKQT--------IEQLK---KELA---QT----K--
+--Q-E----LA---NCKEA---LANCK----A--ENA--KLLKKIE-ELN---CTITQ-L
+QEELEQ-------CRAR-----------ERDL---QC-------Q-LDECNKKLT-ICNN
+EL-----------------IACRKQQEELRCEIERLNAEI----KRLEAQNAACENALNT
+LRCE----------------
+sp|P21249|ANT1_ONCVO/1051-1222 [subseq from] Major antigen OS=Onchocerca volvulus OX=6282 GN=OVT1 PE=2 SV=2
+---------NEMKSQLNAAE-DKINSLNKVITDQ---Q-NKI-------RDLT---GEV-
+----H-------HLE----GELKDAKGNVAN-LESELDTTR---ERIH---LL----G--
+--E-Q----NA---SLQ--------------T--ELN--KIKGDID-SLF---GENDM-L
+KTAKES-------NEAE-----------IDRL---KQ-------K-LQRSIENAK-KYSD
+AL-----------------DKLRPEYDRLQNLYREKIKQA----ENLTQAVQDLESRLNQ
+SRRELRDAT-----------
+sp|P04692|TPM1_RAT/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Rattus norvegicus OX=10116 GN=Tpm1 PE=1 SV=3
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLS----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P58771|TPM1_MOUSE/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Mus musculus OX=10090 GN=Tpm1 PE=1 SV=1
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLS----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P58772|TPM1_RABIT/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Oryctolagus cuniculus OX=9986 GN=TPM1 PE=1 SV=1
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLS----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P42636|TPM1_BIOGL/6-83 [subseq from] Tropomyosin-1 OS=Biomphalaria glabrata OX=6526 PE=2 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---------------KK-----------MLAM---KM-------E-KENAIDRAE-QMEQ
+KL-----------------RDVEETKNKLEEEFNNLQNKF----SNLQNDFDTANEGLTE
+AQTKLEASEKHVAELES---
+sp|P02561|TPM4_HORSE/136-244 [subseq from] Tropomyosin alpha-4 chain OS=Equus caballus OX=9796 GN=TPM4 PE=1 SV=2
+-----------LEGELERAE-ERAEVSELKCGDL---E-EEL-------KNVT---NNL-
+----K-------SLE----AASEKYSEKEDK-YEEEIKLLS---DKLK---EA----E--
+--T-R----AE---FAERT---VAKLE----K--TID--DLEEKLA-QAK---EENVG-L
+HQTLDQ-------TLDE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P67936|TPM4_HUMAN/136-244 [subseq from] Tropomyosin alpha-4 chain OS=Homo sapiens OX=9606 GN=TPM4 PE=1 SV=3
+-----------LEGELERAE-ERAEVSELKCGDL---E-EEL-------KNVT---NNL-
+----K-------SLE----AASEKYSEKEDK-YEEEIKLLS---DKLK---EA----E--
+--T-R----AE---FAERT---VAKLE----K--TID--DLEEKLA-QAK---EENVG-L
+HQTLDQ-------TLNE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P67937|TPM4_PIG/136-244 [subseq from] Tropomyosin alpha-4 chain OS=Sus scrofa OX=9823 GN=TPM4 PE=2 SV=3
+-----------LEGELERAE-ERAEVSELKCGDL---E-EEL-------KNVT---NNL-
+----K-------SLE----AASEKYSEKEDK-YEEEIKLLS---DKLK---EA----E--
+--T-R----AE---FAERT---VAKLE----K--TID--DLEEKLA-QAK---EENVG-L
+HQTLDQ-------TLNE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P04268|TPM1_CHICK/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Gallus gallus OX=9031 GN=TPM1 PE=1 SV=2
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLT----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P58773|TPM1_COTJA/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Coturnix japonica OX=93934 GN=TPM1 PE=2 SV=1
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLT----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|A6H5Y1|MPP9_MOUSE/423-600 [subseq from] M-phase phosphoprotein 9 OS=Mus musculus OX=10090 GN=Mphosph9 PE=2 SV=1
+----------------------EISSLKQKLEAK---DISAV-------EEWK---KKN-
+----E-------ILA----DRCGQLDSALNE-ATSRVRTLE---KNNN---LL----E--
+--I-E----VS---DLRER---FNAAS----S--ASK--VLQERIE-EMR---TSNKE-K
+DNTITR-------LKCR-----------LQDL---EE-------A-FENAYKLSD-DKEA
+RL-----------------RQENKMFQDLLGEYESLGKEH----GRVKDTLNTTENKLLD
+AHTQISDLKRTISKLEAQV-
+sp|Q9NAS5|TPM_ANISI/10-108 [subseq from] Tropomyosin OS=Anisakis simplex OX=6269 PE=1 SV=1
+---AMKIEKDNALDRADAAE-EKVRQMTDKLERI---E-EEL-------RDTQ---KKM-
+----M-------QTE----NDLDKAQEDLST-ANSNLEEKE---KKVQ---EA----E--
+--A-E----VA---ALNRR---MTLLE----E--ELE--RAEERLK-L------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P55326|YZG1_CAEEL/59-124 [subseq from] Uncharacterized protein F13E6.1 OS=Caenorhabditis elegans OX=6239 GN=F13E6.1 PE=3 SV=2
+------AEKDLLRTELDKTE-EEISTLKQVLSAR---Q-KHA-------AELK---RKLG
+LTPFS-------ELS----QDINRSLKTVTD-TDAYQKT---------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q4R8C3|ODFP2_MACFA/463-633 [subseq from] Outer dense fiber protein 2 OS=Macaca fascicularis OX=9541 GN=ODF2 PE=2 SV=1
+---KMREDRDSLVERLHRQT-AEYSAFKLENERL---K-ASF-------APME---DKL-
+----N-------QAH----LEVQQLKASVKN-YEGMIDNYK---SQVM---KT----R--
+--L-E----AD---EVAAQ---LERCD----K--ENK--ILKDEMNKEIE---AARRQ-F
+QSQLAD-------LQQL-----------PDIL---KI-------T-EAK----LA-ECQD
+QL-----------------QGYERKNIDLTAIISDLRSRV----RDWQKGSHELTRAG--
+--------------------
+sp|P43689|TPM2_BIOGL/175-280 [subseq from] Tropomyosin-2 OS=Biomphalaria glabrata OX=6526 PE=2 SV=1
+--------------DLERAE-ARLEAAEAKIIEL---E-EEL-------KVVG---NNM-
+----K-------SLE----ISEQEASQREDS-YEETIRDLT---QRLK---DA----E--
+--N-R----AT---EAERT---VSKLQ----K--EVD--RLEDELL-AEK---ERYKS-I
+SDELDS-------TFAE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P09493|TPM1_HUMAN/192-282 [subseq from] Tropomyosin alpha-1 chain OS=Homo sapiens OX=9606 GN=TPM1 PE=1 SV=2
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DRYE---EEI-
+----K-------VLS----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT--------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P91958|TPM_MYTGA/175-280 [subseq from] Tropomyosin OS=Mytilus galloprovincialis OX=29158 PE=2 SV=1
+--------------DLERAE-ARLEAAEAKVIDL---E-EQL-------TVVG---ANI-
+----K-------TLQ----VQNDQASQREDS-YEETIRDLT---NRLK---DA----E--
+--N-R----AT---EAERT---VSKLQ----K--EVD--RLEDELL-TEK---EKYKA-I
+SDELDA-------TFAE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|C6DHM3|ZAPB_PECCP/7-78 [subseq from] Cell division protein ZapB OS=Pectobacterium carotovorum subsp. carotovorum (strain PC1) OX=561230 GN=zapB PE=3 SV=1
+------------------------------------------------------------
+----E-------KLE----AKVQQAIDTITL-LQMEIEELK---EQNN---AL----S--
+--Q-D----VQ---AAAGS---REALV----R--ENE--QLKEEQV-VWQ---ERLRA-L
+LGKMEE------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|O29710|Y540_ARCFU/89-196 [subseq from] Uncharacterized protein AF_0540 OS=Archaeoglobus fulgidus (strain ATCC 49558 / VC-16 / DSM 4304 / JCM 9628 / NBRC 100126) OX=224325 GN=AF_0540 PE=3 SV=1
+------------------------------------------------------------
+-------------------------EESLVE-AENEVLSLR---KEVQ---RL----E--
+--G-E----VS---YYKKL---FEVLN----K--INV--DLYDKLQ-NLA---TENDE-L
+KRELEL-------YKSK-----------AGNY---SQ-------L-IDELRLELS-KMNE
+TV-----------------RQLQATNEDLQANLTKIDAE---------------------
+--------------------
+sp|P43047|Y864_MYCCT/304-464 [subseq from] Uncharacterized protein MCAP_0864 OS=Mycoplasma capricolum subsp. capricolum (strain California kid / ATCC 27343 / NCTC 10154) OX=340047 GN=MCAP_0864 PE=3 SV=2
+------------------------------KEEK---E-MDL-------VKVK---SDI-
+----T-------KIN----EQVNQLETQSNQ-TNTNISLLR---QQIQ---KL----D--
+--K-Q----KE---TSTLN---TQTLE----K--ELN--KKNIELE-KLI---KESES-Y
+STSIKK-------LESE-----------RTQL---QT-------K-LDEIIKQNT-QKEE
+LI-----------------KQLEKELEKLSKRTQRLNVKK----ILLTSKVSELNKKISD
+KEKKITSLNKV---------
+sp|B4F168|ZAPB_PROMH/7-79 [subseq from] Cell division protein ZapB OS=Proteus mirabilis (strain HI4320) OX=529507 GN=zapB PE=3 SV=1
+------------------------------------------------------------
+----E-------KLE----SKVQQALDTITL-LQMEIEELK---EKND---AL----N--
+--Q-E----VQ---GARES---REALV----R--ENE--ELKQEQS-SWQ---ERLRA-L
+LGKMED-------V----------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q8CHG3|GCC2_MOUSE/524-707 [subseq from] GRIP and coiled-coil domain-containing protein 2 OS=Mus musculus OX=10090 GN=Gcc2 PE=1 SV=2
+-------EKDALLETVNRLQ-GEN----EKLLSQ---Q-ELV-------PELE---STI-
+----K-------NLQ----ADNSMYLASLGQ-KDTMLQELE---AKIS---SL----A--
+--K-E----KD---DFISK---IKTSH----E--EMD------DLH-QKW---EREQR-L
+SVELRE-------AAGQ-----------AAQH---NS-------E-LRQRVSELTGKLDE
+LV-----------------REKSQNDQSITVQMKTMTEDQ----EALSSKIKSLYEENNR
+LHSEKAQLSRDLEALQAQQ-
+sp|Q6DFL0|C102A_XENLA/373-488 [subseq from] Coiled-coil domain-containing protein 102A OS=Xenopus laevis OX=8355 GN=ccdc102a PE=2 SV=1
+-----------------------ASALDTDLKSI---Q-AEL-------FEKN---KEL-
+----S-------DLR----HSHSKLKKQYHE-RSSEFSHAN---RRVE---QL----E--
+--S-E----VK---KLRLR---VEELK----K--ELG--QAEDELD-EAQ---NQIRK-L
+QRTLDE-------QTEL-----------NENL---QV-------Q-LEHVQSRLR-RQ--
+------------------------------------------------------------
+--------------------
+sp|Q5PQ23|ODFP2_XENLA/489-582 [subseq from] Outer dense fiber protein 2 OS=Xenopus laevis OX=8355 GN=odf2 PE=2 SV=1
+-------ERDSLLEKLHQQT-TENTCLRLEHEKL---K-ASL-------TTVE---EKL-
+----S-------LAQ----SEVQQLKNSLRQ-YEGLVDTYK---EQLQ---KS----R--
+--Q-E----AN---SISLQ---LEMSE----K--ENK--NIKEDMN--------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|P42639|TPM1_PIG/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Sus scrofa OX=9823 GN=TPM1 PE=1 SV=2
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLS----DKLKEAETRAEF-AERSVTKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q9Y7S2|YQO3_SCHPO/119-219 [subseq from] UPF0612 protein C569.003 OS=Schizosaccharomyces pombe (strain 972 / ATCC 24843) OX=284812 GN=SPCC569.03 PE=3 SV=2
+------------------------------QNDM---N-SRF-------DAMQ---TEM-
+----S-------VMK----NGIASIKGEMAE-MKGEMTVMK---NDIA---SI----K--
+--G-E----MA---EMKGE---MAVMK----N--DIA--SIKGEMA-EMK---GEMTV-M
+KNDIAS-------IKGE-----------MAEM---KG-------E-MTI-----------
+------------------------------------------------------------
+--------------------
+sp|Q2KJ21|CACO1_BOVIN/141-244 [subseq from] Calcium-binding and coiled-coil domain-containing protein 1 OS=Bos taurus OX=9913 GN=CALCOCO1 PE=2 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------------------LVV---PKATV-L
+QNQLDE-------SQQE-----------RNDL---MQLKLQLEGQ-VTELKSQVQ-ELEK
+AL-----------------AAARQEHAELAEQYKGLSRSH----GELTEERDILSRQQGD
+HVARILELEEDIQTISEKV-
+sp|P16275|IFEB_HELPO/117-251 [subseq from] Non-neuronal cytoplasmic intermediate filament protein B OS=Helix pomatia OX=6536 PE=1 SV=1
+-------IRDAYENELAQAR-KVIDELSSTKGVS---E-AKV-------AGLQ---DEI-
+----A-------SLR----ELIGTYENQSKD-YRKKIESLG---NQIG---EY----E--
+--G-E----LH---TLRIR---CGSLE----D--ENA--KVRELLD-KIQ---DQNRR-L
+RADLDT-------ETSA-----------HIEA---DC-------L-AQTKTEECE-FYKD
+LL----------------------------------------------------------
+--------------------
+sp|A3KGV1|ODFP2_MOUSE/482-601 [subseq from] Outer dense fiber protein 2 OS=Mus musculus OX=10090 GN=Odf2 PE=1 SV=1
+---KMREDRDSLVERLHRQT-AEYSAFKLENERL---K-ASF-------APME---DKL-
+----N-------QAH----LEVQQLKASVKN-YEGMIDNYK---SQVM---KT----R--
+--L-E----AD---EVAAQ---LERCD----K--ENK--MLKDEMNKEIE---AARRQ-F
+QSQLAD-------LQQL-----------PD------------------------------
+------------------------------------------------------------
+--------------------
+sp|P09495|TPM4_RAT/136-244 [subseq from] Tropomyosin alpha-4 chain OS=Rattus norvegicus OX=10116 GN=Tpm4 PE=1 SV=3
+-----------LEGELERAE-ERAEVSELKSSDL---E-EEL-------KNVT---NNL-
+----K-------SLE----AASEKYSEKEDK-YEEEIKLLS---DKLK---EA----E--
+--T-R----AE---FAERT---VSKLE----K--TID--DLEEKLA-QAK---EENVG-L
+HQTLDQ-------TLNE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|A6ZYV5|SP110_YEAS7/161-213 [subseq from] Spindle pole body component 110 OS=Saccharomyces cerevisiae (strain YJM789) OX=307796 GN=SPC110 PE=3 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------YINEIK-SLKH
+EI-----------------KELRKEKNDTLNNYDTLEEET----DDLKNRLQALEKELDA
+KNKI----------------
+sp|P32380|SP110_YEAST/161-213 [subseq from] Spindle pole body component 110 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SPC110 PE=1 SV=1
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------------------------------YINEIK-SLKH
+EI-----------------KELRKEKNDTLNNYDTLEEET----DDLKNRLQALEKELDA
+KNKI----------------
+sp|Q2T9U2|ODFP2_BOVIN/482-651 [subseq from] Outer dense fiber protein 2 OS=Bos taurus OX=9913 GN=ODF2 PE=2 SV=1
+---KMREDRDSLVERLHRQT-AEYSAFKLENERL---K-ASF-------APME---DKL-
+----N-------QAH----IEVQQLKASVKN-YEGMIDNYK---SQVM---KT----R--
+--L-E----AD---EVAAQ---LERCD----K--ENK--ILKDEMNKEIE---AARRQ-F
+QSQLAD-------LQQL-----------PDIL---KI-------T-EAK----LA-ECQD
+QL-----------------QGYERKNIDLTAIISDLRSRV----RDWQKGSHELARA---
+--------------------
+sp|Q6AYX5|ODFP2_RAT/477-600 [subseq from] Outer dense fiber protein 2 OS=Rattus norvegicus OX=10116 GN=Odf2 PE=1 SV=2
+---KMREDRDSLVERLHRQT-AEYSAFKLENERL---K-ASF-------APME---DKL-
+----N-------QAH----LEVQQLKASVKN-YEGMIDNYK---SQVM---KT----R--
+--L-E----AD---EVAAQ---LERCD----K--ENK--MLKDEMNKEIE---AARRQ-F
+QSQLAD-------LQQL-----------PDIL---KI-----------------------
+------------------------------------------------------------
+--------------------
+sp|Q6IRU2|TPM4_MOUSE/136-244 [subseq from] Tropomyosin alpha-4 chain OS=Mus musculus OX=10090 GN=Tpm4 PE=1 SV=3
+-----------LEGELKRAE-ERAEVSELKCGDL---E-EEL-------KNVT---NNL-
+----K-------SLE----AASEKYSEKEDK-YEEEIKLLS---DKLK---EA----E--
+--T-R----AE---FAERT---VSKLE----K--TID--DLEEKLA-QAK---EENVG-L
+HQTLDQ-------TLNE-------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q01173|TPM1_XENLA/192-283 [subseq from] Tropomyosin alpha-1 chain OS=Xenopus laevis OX=8355 GN=tpm1 PE=2 SV=1
+----------ELEEELKTVT-NNLKSLEAQAEKY---S-QKE-------DKYE---EEI-
+----K-------VLT----DKLKEAETRAEF-AERTVAKLE---KSID---DL----E--
+--D-E----LY---AQKLK---YKAIS----E--ELD--HALNDMT-S------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q6CPX2|ATG16_KLULA/42-109 [subseq from] Autophagy protein 16 OS=Kluyveromyces lactis (strain ATCC 8585 / CBS 2359 / DSM 70799 / NBRC 1267 / NRRL Y-1140 / WM37) OX=284590 GN=ATG16 PE=3 SV=1
+------------------------------------------------------------
+-----------------------------RL-K-NSIKNLR---EHLT---EK----E--
+--E-E----IR---QLHDV---ISVKN----R--DAE--RLNDELI-SIN---IENNL-L
+QERLTH-------IQAE-----------YDTL---IE-------R---------------
+------------------------------------------------------------
+--------------------
+sp|A7THU9|SP110_VANPO/313-442 [subseq from] Spindle pole body component 110 OS=Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294) OX=436907 GN=SPC110 PE=3 SV=1
+-----------LQNKLKEKN-SQISVLENNLIDS---K-NTA-------TELK---TRL-
+----E-------NLQKEYDDKLREKINQIHK-LDDNIKQLK---SERD---SKY-VSL--
+--D-T----ND---KVRKD---FERMR----E--NNA--NLDSKLS-QIS---NENKL-F
+RDKISK-------LSNQ-----------LDDT---KR-------E-RDNQVEL-------
+------------------------------------------------------------
+--------------------
+sp|Q967Z0|MYSP_DERFA/173-362 [subseq from] Paramyosin (Fragment) OS=Dermatophagoides farinae OX=6954 PE=1 SV=1
+---TLEVELESLKVQLDEES-EARLELERQLTKA---N-GDA-------ASWK---SKY-
+----E------AELQ----AHADEVEELRRK-MAQKISEYE---EQLE---AL----L--
+--N-K----CS---SLEKQ---KSRLQ----S--EVE--VLIMDLE-KAT---RHAQQ-L
+EKRVAQ-------LEKI-----------NLDL---KN-------K-LEEVTMLME-QAQK
+EL-----------------RVKIAELQKLQHEYEKLRDQR----DQLARENKKLTDDLAE
+AKSQLNDAHRRIH-------
+sp|Q6CZ88|ZAPB_PECAS/7-78 [subseq from] Cell division protein ZapB OS=Pectobacterium atrosepticum (strain SCRI 1043 / ATCC BAA-672) OX=218491 GN=zapB PE=3 SV=1
+------------------------------------------------------------
+----E-------KLE----AKVQQAIDTITL-LQMEIEELK---EQNN---TL----S--
+--Q-D----VQ---AAAGS---RESLV----R--ENE--QLKEEQV-VWQ---ERLRA-L
+LGKMEE------------------------------------------------------
+------------------------------------------------------------
+--------------------
+sp|Q9SHJ6|PMD2_ARATH/194-278 [subseq from] Peroxisomal and mitochondrial division factor 2 OS=Arabidopsis thaliana OX=3702 GN=PMD2 PE=1 SV=1
+----------EMREKIDNKE-KEVHDLKEKIKSL---E-SDV-------AKGK---TEL-
+----QKWITEKMVVE----DSLKDSEKKVVA-LESEIVELQ---KQLD---DA----E--
+--K-M----IN---GLKNV---VEE-----------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------
